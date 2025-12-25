@@ -1,7 +1,7 @@
 #  Project Management & Task Tracking System
 
-A full-stack **Project Management and Task Tracking System** designed to help teams and individuals efficiently manage projects, assign tasks, track progress, and meet deadlines.  
-This project was developed  a focus on clean architecture, usability, and real-world applicability.
+A full-stack Project Management and Task Tracking System designed to help me efficiently manage projects, assign tasks, track progress, and meet deadlines.
+This project was developed with a focus on clean architecture, usability, and real-world applicability.
 
 ---
 
