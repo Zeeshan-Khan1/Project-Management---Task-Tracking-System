@@ -65,6 +65,3 @@ The application follows a **client–server architecture**, separating frontend 
 - Git & GitHub
 - VS Code
 - Postman
-
-├── README.md
-└── .gitignore
